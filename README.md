@@ -4,5 +4,5 @@ The script scrapes the title, year of release and the link of each movie in all 
 Main libraries:
   - Beautiful Soup for parsing.
   - Requests for HTTP requests.
-  - openpyxl for xlsx files
-  - json for json files
+  - openpyxl for xlsx files.
+  - json for json files.
